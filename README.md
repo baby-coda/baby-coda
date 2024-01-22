@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @baby-coda
 - 👀 I’m interested in AI
+- 🤖
 
 
 <!---
